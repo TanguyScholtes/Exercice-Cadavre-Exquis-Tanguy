@@ -8,3 +8,6 @@
 Le dragon
 était
 affligé
+de
+ce
+temps
