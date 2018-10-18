@@ -11,10 +11,13 @@ affligé
 de
 ce
 temps
-à 
+que
+à
 boire
-du 
+du
 café
-que 
+que
 prennent
 les choux
+et a perdu tout son pouvoir
+(*si j'avais su que cette phrase me portât autant la **poisse**, j'aurais plutôt mis "et est devenu un **super-héros***")
