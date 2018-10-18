@@ -15,3 +15,6 @@ temps
 boire
 du 
 café
+que 
+prennent
+les choux
