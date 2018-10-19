@@ -21,3 +21,4 @@ prennent
 les choux
 et a perdu tout son pouvoir
 (*si j'avais su que cette phrase me portât autant la **poisse**, j'aurais plutôt mis "et est devenu un **super-héros***")
+et les tartines au miel
