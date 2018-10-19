@@ -2,7 +2,7 @@
 "Cadavre exquis" practice for the BeCode studentship.
 
 ## Titre de l'histoire
-*Le dragon nain*
+*Le dragon nain* (sans faute)
 
 ## Histoire
 Le dragon
